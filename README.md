@@ -80,8 +80,8 @@ cd nelly-po
 nelly-po/
 │
 ├── index.html          # Arquivo principal
-├── style.css
-├── script.js 
+├── style.css           # Estilos e design responsivo
+├── script.js           # Lógica JavaScript
 └── README.md           # Documentação do projeto
 ```
 
