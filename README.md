@@ -2,9 +2,9 @@
 
 Uma versão temática e divertida do clássico jogo Pedra, Papel e Tesoura, mas com elementos do universo da programação! Enfrente a Nelly Tech em partidas épicas de Bug, Feature e Refactor.
 
-
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+<img src="./assets/nelly pô 1.png" alt="imagem do projeto">
+<img src="./assets/nelly pô 2.png" alt="imagem do projeto">
+<img src="./assets/nelly pô 3.png" alt="imagem do projeto">
 
 ## 📋 Sobre o Projeto
 
